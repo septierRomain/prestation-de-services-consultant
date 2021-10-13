@@ -40,6 +40,9 @@ ul {
 a {
   text-decoration: none;
 }
+.App {
+  text-align: center;
+}
 body {
   color: #001A25;
   margin: 0;
