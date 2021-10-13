@@ -28,6 +28,10 @@ h4, ul {
   align-items: center;
   padding-bottom: 1em!important;
 }
+h2 {
+  display: flex;
+  align-items: center;
+}
 ul {
   font-size: 16px;
   padding: 0;
@@ -246,13 +250,9 @@ ul>img, .return>img {
   .select_container {
     display: flex;
     justify-content: space-evenly;
-    padding-top: 1.5em;
   }
   #assujetti {
     padding-top: 1.5em;
-  }
-  #assujetti>h2 {
-    padding-bottom: 1em;
   }
   ul>img {
     padding-left: 1em;
