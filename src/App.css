@@ -165,6 +165,10 @@ img {
   font-size: 12px;
   margin-left: 2.7em;
 }
+#subtitle {
+  color: grey;
+  font-weight: 400;
+}
 
 
 /* MEDIA QUERIES */
